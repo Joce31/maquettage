@@ -1,0 +1,72 @@
+2 types de metier:
+l'ergonome ( IHM ) interface homme machine
+UX designer
+
+ERGONOME : travaille sur l'accessibilité et la creation alors que l'UX s'occupoe de l'amelioration visuel en fonction du retour des utilisateur
+
+Structure etape par etape un site :
+maquettage obligatoire
+a etablir pendant le cahier des charges
+
+
+outils:
+figma a installer ==> tres utile a la creation d'un site web
+
+debut :
+
+prendre des info ==> Cahier des charges
+UX designer ===> cahier des tendances
+
+Ne pas supposer ! poser un max de question
+soyez a l'ecoute meme si c'est votre domaine
+
+Ne pas poser ddes questions fermés il doit pouvoir parler.
+le laisser developper sa pensée.
+
+Si le client n'a pas compris, ne pas hesiter a reformuler
+
+Charte editoriale ou charte graphique
+editoriale: SEO, important de connaitre comment l'entreprise communique ( amazon ne tutoie pas tout ses employés
+Graphique:couleur, polices, ...
+SMO : reseau sociaux
+
+coolors.co
+color adobe
+paletton.com
+
+l'arborescence : definir des codes couleurs pour definir qui fait quoi, quels fonctionnalité sur les pages,...
+
+le zoning
+representation simple d'une page web
+decouper la page ne plusieurs zone
+
+le wireframe
+Ou maquette fil de fer ! reprend le zoning mais avec plus de precision
+il y a tout!
+plus proche du resultat final
+
+le mockup
+support de communication avec le client
+suite logique du wireframe car plus de contenu et de couleurs et mettre a jour les problems d'ergnonomie
+#Wondershare Mockitt
+#UXPin
+#Zeplin
+#Abstract
+#Draftium
+#Moqups
+Studio #InVision
+#Figma
+#Proto.io
+Projet #Pencil
+
+
+LE MAQUETTAGE AGILE
+
+
+
+le moodboard (avant le mockup)
+
+different styles d'ecriture,
+different couleur
+differnet logo
+
